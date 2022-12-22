@@ -1,0 +1,2 @@
+this is file 2 new created in master branch
+New file 2 content
